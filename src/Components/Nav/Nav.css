@@ -1,0 +1,27 @@
+.nav-component-wrapper {
+  display: flex;
+  background: black;
+  color: white;
+  position: sticky;
+  align-self: flex-end;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-content: center;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+  font-size: 1.5em;
+}
+
+nav a:hover {
+  color: yellow;
+  transform: scale(1.1);
+}

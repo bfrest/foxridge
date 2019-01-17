@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import styled from "styled-components";
 
 const ContactWrapper = styled.div`
@@ -71,20 +71,18 @@ const ContactForm = styled.div`
   }
 `;
 
-class Contact extends Component {
-  render() {
-    return (
-      <ContactWrapper>
-        <h2>Let's Talk</h2>
-        <ContactForm action="https://formspree.io/freston75@gmail.com" method="POST">
-          <input type="text" placeholder="Name" name="Name" encType="text/plain" />
-          <input type="text" placeholder="Email" name="_replyto" />
-          <textarea placeholder="Message or Question" name="message" size="100" />
-          <button type="submit">Submit</button>
-        </ContactForm>
-      </ContactWrapper>
-    );
-  }
-}
+const Contact = () => {
+  return (
+    <ContactWrapper>
+      <h2>Let's Talk</h2>
+      <ContactForm action="https://formspree.io/freston75@gmail.com" method="POST">
+        <input type="text" placeholder="Name" name="Name" encType="text/plain" />
+        <input type="text" placeholder="Email" name="_replyto" />
+        <textarea placeholder="Message or Question" name="message" size="100" />
+        <button type="submit">Submit</button>
+      </ContactForm>
+    </ContactWrapper>
+  );
+};
 
 export default Contact;

@@ -39,6 +39,12 @@ const HeroWrapper = styled.div`
     animation: ${fadeInNGrow} linear 0.5s;
   }
 
+  @media (max-width: 850px) {
+    h1 {
+      font-size: 3.9em;
+    }
+  }
+
   @media (max-width: 450px) {
     height: 50vh;
     h1 {

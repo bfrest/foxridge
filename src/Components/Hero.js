@@ -31,7 +31,7 @@ const HeroWrapper = styled.div`
   align-items: center;
   justify-content: center;
   color: white;
-  animation: ${fadeIn} linear 0.5s;
+  animation: ${fadeIn} linear 0.75s;
 
   h1 {
     font-size: 5em;

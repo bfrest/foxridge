@@ -106,7 +106,7 @@ const Services = () => {
           <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/dozer.svg" alt="service logo" />
           <h3>Pads</h3>
           <br />
-          <p>With our dozer, we can create all kinds of pads with precision accuracy. We can creat a perfectly flat pad or if you need slope in any direction we can do it all.</p>
+          <p>With our gps system, we can create 3d surfaces to put in the machines that will match the design you want.</p>
         </ServiceItem>
 
         <ServiceItem>

@@ -64,8 +64,10 @@ const ServiceItem = styled.div`
     div {
       width: 90vw;
       margin: 0;
+      /* This is so the icon is under the header, pretty terrible way to do it */
+      /* ! REFACTOR */
       h3 {
-        margin-top: -80%;
+        margin-top: -95%;
         margin-bottom: 50%;
       }
     }

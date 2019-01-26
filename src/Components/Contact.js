@@ -7,9 +7,12 @@ const ContactWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: white;
   padding-top: 10%;
   padding-bottom: 5%;
+
+  h2 {
+    font-size: 2.3em;
+  }
 `;
 
 const ContactForm = styled.div`
@@ -37,19 +40,18 @@ const ContactForm = styled.div`
     width: 100%;
     margin-top: 2%;
     margin-bottom: 3%;
-    border: 3px solid black;
+    border: 2px solid black;
     border-radius: 5px;
     align-self: center;
 
     :focus {
-      border: 3px solid yellow;
+      border: 2px solid yellow;
     }
   }
 
   button {
     background: none;
-    color: white;
-    border: 2px solid white;
+    border: 2px solid #222;
     font-size: 1.5em;
     width: 40%;
     align-self: center;

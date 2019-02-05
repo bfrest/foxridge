@@ -22,7 +22,7 @@ from {
 `;
 
 const HeroWrapper = styled.div`
-  background: url("http://res.cloudinary.com/bfrest/image/upload/e_blur:300,q_100/v1525544207/DJI_0785.jpg");
+  background: url("https://res.cloudinary.com/bfrest/image/upload/v1525544207/foxridge/DJI_0785.jpg");
   height: 100vh;
   width: 100vw;
   background-size: cover;

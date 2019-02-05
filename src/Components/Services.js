@@ -107,11 +107,11 @@ const Services = () => {
             everything will turn out exactly like the plan shows. There is no need to have an engineer stake out any roads or curb EVER.
           </p>
         </div>
-        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548422544/blueprint.svg" alt="service logo" />
+        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548422544/foxridge/blueprint.svg" alt="service logo" />
       </ServiceItem>
 
       <ServiceItem>
-        <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/satellite.svg" alt="service logo" />
+        <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/satellite.svg" alt="service logo" />
         <div>
           <h3>GPS Grading</h3>
           <br />
@@ -128,11 +128,11 @@ const Services = () => {
             to find out the most efficient way to get it going.
           </p>
         </div>
-        <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/trackHoe.svg" alt="service" />
+        <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/trackHoe.svg" alt="service" />
       </ServiceItem>
 
       <ServiceItem>
-        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548421605/3d-design.svg" alt="3d model" />
+        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548421605/foxridge/3d-design.svg" alt="3d model" />
         <div>
           <h3>3D Modeling</h3>
           <br />
@@ -153,11 +153,11 @@ const Services = () => {
             task takes. With this software we become more aware of how much time each item takes and we become more efficient on each job we do.
           </p>
         </div>
-        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548422293/house_layout.svg" alt="service logo" />
+        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548422293/foxridge/house_layout.svg" alt="service logo" />
       </ServiceItem>
 
       <ServiceItem>
-        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548421810/drone.svg" alt="service logo" />
+        <img src="https://res.cloudinary.com/bfrest/image/upload/v1548421810/foxridge/drone.svg" alt="service logo" />
         <div>
           <h3>Drones</h3>
           <br />

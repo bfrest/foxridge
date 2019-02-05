@@ -62,7 +62,7 @@ const Services = () => {
       <h2>What We Do</h2>
       <ServiceList>
         <ServiceItem>
-          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/satellite.svg" alt="service logo" />
+          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/satellite.svg" alt="service logo" />
           <h3>GPS Grading</h3>
           <br />
           <p>
@@ -72,7 +72,7 @@ const Services = () => {
         </ServiceItem>
 
         <ServiceItem>
-          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/trackHoe.svg" alt="service logo" />
+          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/trackHoe.svg" alt="service logo" />
           <h3>Excavating</h3>
           <br />
           <p>
@@ -82,7 +82,7 @@ const Services = () => {
         </ServiceItem>
 
         <ServiceItem>
-          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/analytics.svg" alt="service logo" />
+          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/analytics.svg" alt="service logo" />
           <h3>Analytics</h3>
           <br />
           <p>
@@ -93,7 +93,7 @@ const Services = () => {
         </ServiceItem>
 
         <ServiceItem>
-          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/hourglass.svg" alt="service logo" />
+          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/hourglass.svg" alt="service logo" />
           <h3>Time Management</h3>
           <br />
           <p>
@@ -103,14 +103,14 @@ const Services = () => {
         </ServiceItem>
 
         <ServiceItem>
-          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/dozer.svg" alt="service logo" />
+          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/dozer.svg" alt="service logo" />
           <h3>Pads</h3>
           <br />
           <p>With our gps system, we can create 3d surfaces to put in the machines that will match the design you want.</p>
         </ServiceItem>
 
         <ServiceItem>
-          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/road.svg" alt="service logo" />
+          <img src="http://res.cloudinary.com/bfrest/image/upload/v1525542143/foxridge/road.svg" alt="service logo" />
           <h3>Land Development</h3>
           <br />
           <p>Our crew is made up of experts in all of the requirements to get your subdivision ready to build. We have the experience to get the job done right and on time.</p>
